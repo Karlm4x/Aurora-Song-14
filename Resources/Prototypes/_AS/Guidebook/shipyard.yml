@@ -1,0 +1,12 @@
+- type: guideEntry
+  id: Shipyard
+  name: guide-entry-shipyard
+  text: "/ServerInfo/_AS/Guidebook/Shipyard.xml"
+  priority: 7
+  children:
+  - ShipyardSharkbait
+
+- type: guideEntry
+  id: ShipyardSharkbait
+  name: guide-entry-shipyard-sharkbait
+  text: "/ServerInfo/_AS/Guidebook/Shipyard/Sharkbait.xml"

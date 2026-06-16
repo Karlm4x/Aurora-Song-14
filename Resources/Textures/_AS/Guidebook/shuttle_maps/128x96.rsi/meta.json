@@ -2,7 +2,7 @@
     "version": 1,
     "license": "CC-BY-SA-3.0",
     "copyright": "dinghy by zenixic(discord/github)",
-    "extra_copyright": [
+    "extra_copyright": [ "sharkbait by carl_m4x/Karlm4x (discord/github)"
     ],
     "metaAtlas": false,
     "size": {
@@ -12,6 +12,9 @@
     "states": [
         {
             "name": "dinghy"
+        },
+        {
+            "name": "sharkbait"
         }
     ]
 }

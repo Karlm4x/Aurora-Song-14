@@ -1,4 +1,5 @@
 guide-entry-aurora-rules = Server Rules
 
-#Shipyard entries
+# Shipyard entries
 guide-entry-shipyard-dinghy = Dinghy
+guide-entry-shipyard-sharkbait = Sharkbait
